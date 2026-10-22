@@ -1,5 +1,7 @@
 <div align="center">
 
+**🇧🇷 Português** | [🇺🇸 English](./README.en.md)
+
 # Olá, eu sou Diego Almeida! 👋
 
 ### ☁️ Google Cloud · Desenvolvimento de Soluções · IA Generativa
@@ -29,16 +31,18 @@ Meu objetivo é desenvolver soluções tecnológicas funcionais, seguras e escal
 | **IA generativa** | Gemini Enterprise, implantação de soluções corporativas de IA, especialização em desenvolvimento de agentes e aprofundamento em integrações com IA |
 | **Operações e suporte** | Onboarding técnico, administração de acessos, diagnóstico de problemas, automação de processos e suporte presencial/remoto |
 
+[LinkedIn](https://www.linkedin.com/in/diegoalmeida15)
+
 ## 🏅 Certificações e especializações
 
 **Certificação Google Cloud**
 
-- **Google Cloud Certified — Generative AI Leader**
+- [**Google Cloud Certified — Generative AI Leader**](https://www.credly.com/badges/f9f3cec4-f3c7-4d20-a594-d83e33c16f2a/public_url)
 
 **Especializações para parceiros**
 
-- **Certified Partner Specialist — Gemini Enterprise Deployment**
-- **Certified Partner Specialist — Gemini Enterprise Agent Development**
+- [**Certified Partner Specialist — Gemini Enterprise Deployment**](https://www.credly.com/badges/028ecc1a-1839-481a-b658-2444cc21c5f8/public_url)
+- [**Certified Partner Specialist — Gemini Enterprise Agent Development**](https://www.credly.com/badges/6c4ad3d9-a439-4e38-9b3e-4ac969dcb18d/public_url)
 
 **Em preparação**
 
