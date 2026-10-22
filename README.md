@@ -8,6 +8,8 @@
 
 *Tecnologia aplicada a problemas reais, com foco em segurança, aprendizado contínuo e evolução profissional.*
 
+[LinkedIn](https://www.linkedin.com/in/diegoalmeida15)
+
 </div>
 
 ---
@@ -30,8 +32,6 @@ Meu objetivo é desenvolver soluções tecnológicas funcionais, seguras e escal
 | **Desenvolvimento e automação** | Google Apps Script, Firebase Authentication, Cloud Firestore, integração de APIs, Git e GitHub |
 | **IA generativa** | Gemini Enterprise, implantação de soluções corporativas de IA, especialização em desenvolvimento de agentes e aprofundamento em integrações com IA |
 | **Operações e suporte** | Onboarding técnico, administração de acessos, diagnóstico de problemas, automação de processos e suporte presencial/remoto |
-
-[LinkedIn](https://www.linkedin.com/in/diegoalmeida15)
 
 ## 🏅 Certificações e especializações
 
